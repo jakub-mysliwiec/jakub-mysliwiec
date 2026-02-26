@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**jakub-mysliwiec/jakub-mysliwiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer in transition | 10+ years ETL & Data Platforms Admin (Informatica PowerCenter, Denodo, Tableau Server, SAP BO) | Learning modern cloud pipelines with Python, Azure Data Factory, ADLS & PySpark
 
-Here are some ideas to get you started:
+🔭 Currently: Building end-to-end Azure data projects while upskilling (Udemy Azure DE + Python bootcamp)  
+🛠️ Background: Enterprise ETL admin, production monitoring (Tivoli), Linux/Windows/Bash scripting, debugging developer work , maintain/update old legacy perl scripts & APIs  
+📊 Passionate about reliable data ingestion → transformation → serving for analytics & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects (coming soon)
+- 
+- 
+
+### Tech Stack (building)
+Python | SQL | Azure (ADLS Gen2, Data Factory, Databricks) | PySpark | Git | Bash
+
+📫 LinkedIn: [https://www.linkedin.com/in/jakub-my%C5%9Bliwiec-8684a341/]
+
+<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakub-mysliwiec&show_icons=true&theme=radical" ></image-card>
